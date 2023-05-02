@@ -1,0 +1,16 @@
+@keyframes burn {
+  0% {
+    text-shadow: none;
+  }
+  50% {
+    text-shadow: 0 0 10px #ff6600, 0 0 20px #ff6600, 0 0 30px #ff6600,
+      0 0 40px #ff6600, 0 0 50px #ff6600, 0 0 60px #ff6600, 0 0 70px #ff6600;
+  }
+  100% {
+    text-shadow: none;
+  }
+}
+
+.fire-animation:hover h3 {
+  animation: burn 2s ease-in-out forwards;
+}
