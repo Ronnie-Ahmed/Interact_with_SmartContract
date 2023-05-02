@@ -1,21 +1,101 @@
 ﻿# Interact_with_SmartContract
 #Screen Shoot
 
-![Home](https://user-images.githubusercontent.com/68500792/235779594-d4562392-0f49-469a-8268-fb83fa5a9a16.png)
-![TransferEth](https://user-images.githubusercontent.com/68500792/235779614-9c9e97db-8672-40c0-9cf9-806a775802c9.png)
-![Transfer2](https://user-images.githubuserc![ViewInfo2](https://user-images.githubusercontent.com/68500792/235779666-b65687d2-3f0f-4d59-bbb0-f98fd5600267.png)
-ontent.![ChangeInfo](https://user-images.githubusercontent.com/68500792/235779646-46![ViewInfo](https://user-images.githubusercontent.com/68500792/235779660-5d2aa862-8734-434b-b230-9bca4b6faa57.png)
-aa0ba7-a15a-4199-9690-e9334d96d357.png)![ChangeInfo2](https://user-images.githubusercontent.com/68500792/235779653-683fb0cc-73d3-48a9-8963-905f2ef0e99c.png)
+![Home](https://user-images.githubusercontent.com/68500792/235780252-951e010d-efeb-4164-8145-2088e9b32e91.png)
+![TransferEth](https://user-images.githubusercontent.com/68500792/235780278-87165b50-ab22-477b-88b4-276af033bf5b.png)
 
-com/68500792/235779622-06e6f7a4-4843-4182-b8b9-4524a1c7a0e5.png)![Addinfo2](https://user-images.githubusercontent.com/68500792/235779639-d390bdd1-44cc-4697-b36f-51555878afae.png)
+![Transfer2](https://user-images.githubusercontent.com/68500792/235780298-5cf27432-9cf9-43eb-a9a0-332acd384c9f.png)
+![Addinfo](https://user-images.githubusercontent.com/68500792/235780321-e85aeff7-ccde-4a92-bb40-80a15ffa8cc2.png)
+![Addinfo2](https://user-images.githubusercontent.com/68500792/235780331-13b2a079-a5b4-4a33-aa35-d1f069d56b33.png)
+![ChangeInfo](https://user-images.githubusercontent.com/68500792/235780390-571d6847-496f-459f-913b-99785f9dcc42.png)
+![ChangeInfo2](https://user-images.githubusercontent.com/68500792/235780409-8039be3b-cf03-4160-b8e4-fa61b87b26a7.png)
+![ViewInfo](https://user-images.githubusercontent.com/68500792/235780428-73112544-4b6c-4e62-ab89-f44607790862.png)
+![ViewInfo2](https://user-images.githubusercontent.com/68500792/235780473-df980887-5bf1-4c30-aaea-d45ce6043d5c.png)
 
-![Addinfo](https://user-images.githubusercontent.com/68500792/235779630-a13361f6-f7a9-4f09-b0d9-41564fb27369.png)
+# Getting Started with Create React App
 
-#npm install
-#npm run start
-#>backend
-#npm install
-#npx hardhat compile
-#npx hardhat node
-#npx hardhat run .\scripts\deploy.js --network localhost
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
+
 
